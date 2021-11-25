@@ -39,7 +39,12 @@
 
 // si ponemos git config --global user.email, sin nada mas nos aparecia nuestro email registrado //
 
--git init (para empezara  trabajar con este proyecto)
+- git init (para empezara  trabajar con este proyecto)
+- git add . (para agregar cargar/registrar todo los archivos al repositorio, html,js,css)
+- git commit -m "mi primer commit" (forma para sacarle una foto a nuestros cambios y los registramos con un nombre para a futuro indentificar lo que nosotros hicimos en nuestro proyecto - entre comillas iría el nombre)
+- git log --oneline (para visualizar todos los commit que trabajamos en nuestra computadora)
+
+
 
 
 
